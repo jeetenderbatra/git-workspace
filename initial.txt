@@ -1,2 +1,2 @@
-This is fuirst line
+This is first line
 This is second line and i am going to edit it
